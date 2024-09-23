@@ -1,26 +1,40 @@
-<h1 align="center">Hi 👋, I'm Oluwagbeminiyi Agbedejobi </h1>
-<h2>I don't know if I can help you pronounce either name so you can call me Niyi or Gbeminiyi (preferred). </h2>
-<h3 align="center">A passionate Python Developer from Lagos, Nigeria.</h3>
 
-- 🔭 I’m currently working on **a Weather App. (More details soon!)**
+---
 
-- 🌱 I’m currently learning **SQL, AI & ML, Django & Docker**
+# Hi there, I'm Oluwagbeminiyi 👋
 
-- 💬 Ask me about **Python!**
+I'm a passionate **Robotics, IoT, and AI enthusiast** with a love for building innovative solutions that make a difference. From **Lego creations** as a child to **cutting-edge hackathon projects**, I’ve always been captivated by technology. Welcome to my GitHub!
 
-- 🚆 I am very interested in IoT and Robotics.
+![Banner](https://via.placeholder.com/1000x200) <!-- You can replace this with a custom banner -->
 
-- 📫 How to reach me **gagbedejobi@gmail.com**
+## 🔭 Current Projects:
+- **MobiMaternity**: A mobile health (mHealth) platform leveraging **AI** and **telemedicine** to reduce maternal mortality in Nigeria.
+- **Command-line Tool**: Python tool for counting bytes, lines, words, and characters in files using the `argparse` module.
 
-- ⚡ Fun fact **I am actually funny, I used to write poems and I'm thinking of writing again! I really want to work on robots!!!**
+## 💡 Past Projects:
+- **Semi-Automated Door System**: Built using **Raspberry Pi**, this project highlights my love for IoT.
+- **Hackathon Projects**: Second-place winner at **Fusion Tech Fest 2024** with an AI-powered maternal healthcare service. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gbeminiyi_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gbeminiyi_a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gbeminiyi-agbedejobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gbeminiyi-agbedejobi" height="30" width="40" /></a>
-<a href="https://instagram.com/neeyee___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeyee___" height="30" width="40" /></a>
-</p>
+## 👨‍💻 Technologies I Work With:
+- **Programming Languages**: Python, Java
+- **Frameworks & Libraries**: Django REST Framework, Flask
+- **Tools & Platforms**: Raspberry Pi, JWT Authentication, Agora
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## 🎓 Currently:
+- **300 Level** Computer Science student
 
+## 🚀 Hackathons & Competitions:
+- **Fusion Tech Fest 2024** - 2nd Place
+  
+## 🏆 Achievements:
+- Volunteer at **2023 GDG DevFest Lagos**
+- Volunteer at **2023 GDG DevFest Student Edition Lagos**
+- Built innovative projects in **IoT**, and **AI**
+- Dedicated to making technology accessible, especially in **maternal healthcare**
+
+## 📫 How to Reach Me:
+- Email: [gagbedejobi@gmail.com]
+- LinkedIn: [Oluwagbeminiyi Agbedejobi](https://www.linkedin.com/in/gbeminiyi-agbedejobi)
+- Twitter: [Gbeminiyi_A](https://x.com/Gbeminiyi_A)
+
+---
