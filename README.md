@@ -5,7 +5,6 @@
 
 I'm a passionate **Robotics, IoT, and AI enthusiast** with a love for building innovative solutions that make a difference. From **Lego creations** as a child to **cutting-edge hackathon projects**, I’ve always been captivated by technology. Welcome to my GitHub!
 
-<! -- ![Banner](https://via.placeholder.com/1000x200) --> <!-- You can replace this with a custom banner -->
 
 ## 🔭 Current Projects:
 - **MobiMaternity**: A mobile health (mHealth) platform leveraging **AI** and **telemedicine** to reduce maternal mortality in Nigeria.
