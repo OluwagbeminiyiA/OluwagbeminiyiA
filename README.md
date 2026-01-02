@@ -20,7 +20,7 @@ I'm a passionate **Robotics, IoT, and AI enthusiast** with a love for building i
 - **Tools & Platforms**: Raspberry Pi, JWT Authentication, Agora
 
 ## 🎓 Currently:
-- **300 Level** Computer Science student
+- **400 Level** Computer Science student
 
 ## 🚀 Hackathons & Competitions:
 - **Fusion Tech Fest 2024** - 2nd Place
